@@ -1,16 +1,16 @@
 #Visualization:
 
-matplotlib
-subplots
-plot
-Button
-savefig
-draw()
+matplotlib,
+subplots,
+plot,
+Button,
+savefig,
+draw();
 
 #Resume:
 
-css
-html
+css,
+html;
 
 #Neural networks:
 Heming network model for simple pattern recognition
