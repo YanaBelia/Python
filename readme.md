@@ -1,15 +1,16 @@
-#Git
-Visualization:
+#Visualization:
+
 matplotlib
 subplots
 plot
 Button
 savefig
 draw()
----------------------
-Resume:
+
+#Resume:
+
 css
 html
----------------------
-Neural networks:
+
+#Neural networks:
 Heming network model for simple pattern recognition
